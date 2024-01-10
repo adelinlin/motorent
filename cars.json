@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "64175dc3f6062bc2d2a5190c"
+  },
+  "name": "Audi R8",
+  "year": 2020,
+  "image": "",
+  "seats": 5,
+  "fuel": "Gasoline",
+  "quantity": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64175df9f6062bc2d2a5191f"
+  },
+  "name": "Audi A6",
+  "year": 2019,
+  "image": "",
+  "seats": 5,
+  "fuel": "Hybrid",
+  "quantity": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64176618f6062bc2d2a51924"
+  },
+  "name": "Porsche Taycan",
+  "year": 2017,
+  "image": "",
+  "seats": 2,
+  "fuel": "Hybrid",
+  "quantity": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c0c5457acdb4ff08900dc"
+  },
+  "name": "Opel Insigna",
+  "year": 2019,
+  "image": "",
+  "seats": 5,
+  "fuel": "Gasoline",
+  "quantity": 1,
+  "price": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c0c9657acdb4ff08900df"
+  },
+  "name": "Toyota Auris",
+  "year": 2013,
+  "image": "",
+  "seats": 5,
+  "fuel": "Hybrid",
+  "quantity": 5,
+  "price": 45,
+  "__v": 0
+}]
